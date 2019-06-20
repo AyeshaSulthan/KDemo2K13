@@ -1,0 +1,39 @@
+#navbar-custom {
+    color: #FFFFFF;
+    background-color:#4d0099;
+}
+body{
+    /* background-color: #430099; */
+    background-image: url("C:/Users/Ayesha/Documents/purple.jpg");
+    background-size: cover;
+
+}
+
+.navbar a:hover {
+    background: #f1f1f1;
+    color: black;
+  }
+  .rd
+{
+    position: relative;
+border: 0.5px solid white;
+margin: -1px;
+/* height:40%; */
+}
+  #xyz
+  {
+      background-color: #4d0099;
+  }
+  #yu
+  {
+      background-color: #26004d;
+  }
+  #form-all {
+      background-color: white;
+    border-radius: 5px;
+    border-block-start-color: #FFFFFF;
+    border-width: 70%;
+
+    border:white 2px;
+    /* border-color:white; */
+    }
